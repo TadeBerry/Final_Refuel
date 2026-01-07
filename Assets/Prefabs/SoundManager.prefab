@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2227225989970468330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8179197076434520838}
+  - component: {fileID: 4281019378387201211}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8179197076434520838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2227225989970468330}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4281019378387201211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2227225989970468330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2228e99996e92fa46a45daf241d10eeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SoundManager
+  fuelPickupAudioClip: {fileID: 8300000, guid: aa808d7370458d34bbc74d72c6acf888, type: 3}
+  coinPickupAudioClip: {fileID: 8300000, guid: 4286836a473df634692d7fc2988b47bd, type: 3}
+  crashAudioClip: {fileID: 8300000, guid: 4c9f9d63f11fa4d4ca1c537cd058256d, type: 3}
+  landingSuccessAudioClip: {fileID: 8300000, guid: 96f06fa77866da341aff9d290dc6a289, type: 3}
+  rockHitAudioClip: {fileID: 8300000, guid: ffc59da51f337744c80b423de56ef9c6, type: 3}
+  buttonHoverAudioClip: {fileID: 8300000, guid: ce427d36ebb7c874b9c06f49e2298313, type: 3}
+  keyPickupAudioClip: {fileID: 8300000, guid: 329f4fdcc98eeeb44a4bca9603861b22, type: 3}
+  cannonShotAudioClip: {fileID: 8300000, guid: 0ff1f7a7cd7fd1e45b383886d1bdf1f1, type: 3}
+  landingSound1: {fileID: 8300000, guid: b9013519933cca647a880766d707f9e8, type: 3}
+  landingSound2: {fileID: 8300000, guid: bd481a73f4397d440b05807056073129, type: 3}
+  landingSound3: {fileID: 8300000, guid: fe80789d7a7b83f4e9c676ceb979ba55, type: 3}
+  landingSound4: {fileID: 8300000, guid: 9c362c121105a7042bf719ff1b3ddf32, type: 3}
+  landingSound5: {fileID: 8300000, guid: e78a4093282599646ba4a72f0f03350c, type: 3}
+  landingSound6: {fileID: 8300000, guid: 2fc8683f0bf5e1d4a8de5fcb803deb88, type: 3}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8f2cba23e64b3e14f99398ed0c4e4048
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - landingSound1: {fileID: 8300000, guid: b9013519933cca647a880766d707f9e8, type: 3}
+  - landingSound2: {fileID: 8300000, guid: bd481a73f4397d440b05807056073129, type: 3}
+  - landingSound3: {fileID: 8300000, guid: fe80789d7a7b83f4e9c676ceb979ba55, type: 3}
+  - landingSound4: {fileID: 8300000, guid: 9c362c121105a7042bf719ff1b3ddf32, type: 3}
+  - landingSound5: {fileID: 8300000, guid: e78a4093282599646ba4a72f0f03350c, type: 3}
+  - landingSound6: {fileID: 8300000, guid: 2fc8683f0bf5e1d4a8de5fcb803deb88, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
